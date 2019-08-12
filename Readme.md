@@ -1,4 +1,4 @@
-# Psychic-Game
+# Psychic-Game ( javascript-Assignment)
 - Psychic Game
 
  ```
@@ -8,12 +8,6 @@ Once you win or you run out of guesses, computer will choose a new letter for th
 Runs in the browser, and feature dynamically updated HTML powered by JavaScript code.
 
  ```
-### Preview Site
-
-```
-Coming Soon.
-```
-
 ### Built With
 
 ```
