@@ -16,4 +16,8 @@ Runs in the browser, and feature dynamically updated HTML powered by JavaScript 
 
 ```
 
-### gitHub[]
+### GitHub 
+[https://github.com/nikitamehata23/JavaScript-Assignment]
+
+## Deployed
+[]
