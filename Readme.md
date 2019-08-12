@@ -20,4 +20,4 @@ Runs in the browser, and feature dynamically updated HTML powered by JavaScript 
 [https://github.com/nikitamehata23/JavaScript-Assignment]
 
 ## Deployed
-[]
+[https://nikitamehata23.github.io/JavaScript-Assignment/]
